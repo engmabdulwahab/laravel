@@ -22,7 +22,7 @@
         }
     ],
     "require": {
-        "php": "*",
+        "php": "^8.1",
         "ext-json": "*",
         "illuminate/database": "*",
         "illuminate/support": "*",
